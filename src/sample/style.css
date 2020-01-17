@@ -1,0 +1,56 @@
+#btn_generate_quiz{
+    -fx-background-color: black;
+    -fx-border-radius: 1000%;
+}
+#disconnect{
+    -fx-background-color: #FF6600;
+}
+
+#btn_inscription{
+    -fx-background-color: black;
+    -fx-border-radius: 5000%;
+}
+#cnxBtn{
+    -fx-background-color: black;
+    -fx-border-radius: 1000%;
+
+}
+#textfieldusername{
+    -fx-border-radius: 5000%;
+    -fx-border-color: transparent;
+}
+#textfieldpwd{
+    -fx-border-radius: 5000%;
+    -fx-border-color: transparent;
+}
+#Nom{
+    -fx-background-image: url(img/captureQuiz.jpg);
+}
+#questions{
+    -fx-font-family: "Century Gothic";
+    -fx-font-color: black;
+    -fx-font-size: 18 px;
+    -fx-padding: 20px,0px,10px,220px;
+    -fx-font-weight: bold;
+}
+#prop{
+    -fx-font-family: "Century Gothic";
+    -fx-font-size: 14 px;
+    -fx-font-color: black;
+    -fx-padding: 10px,0px,5px,250px;
+}
+#qcm{
+    -fx-font-family: "Century Gothic";
+    -fx-font-color: black;
+    -fx-font-size: 24 px;
+    -fx-padding: 30px,0px,0px,200px;
+    -fx-font-weight: bold;
+
+}
+#name{
+    -fx-font-family: "Century Gothic";
+    -fx-font-color: black;
+    -fx-font-size: 26 px;
+    -fx-padding: 0px,0px,30px,500px;
+    -fx-font-weight: bold;
+}
